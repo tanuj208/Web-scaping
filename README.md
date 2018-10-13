@@ -8,5 +8,7 @@ Details include Name, url, author, price, number of ratings and average rating o
 Output will be stored in a spreadsheet stored in current directory
 
 ## Running the program
-
+- Run the following code on terminal
+  - `pip3 install beautifulsoup4`
+  - `pip3 install requests`
 - Execute the code by using `python3 com_bestseller.py` and `python3 in_bestseller.py` in the current directory.
